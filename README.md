@@ -99,7 +99,7 @@ pnpm dev
 bun dev
 ```
 
-Open http://localhost:3000 in your browser to see the application running. The page will automatically reload if you make changes to the code.
+Open `http://localhost:3000` in your browser to see the application running. The page will automatically reload if you make changes to the code.
 
 You can start editing the main page by modifying src/pages/index.tsx. The application will automatically update as you edit the file.
 
@@ -107,11 +107,13 @@ You can start editing the main page by modifying src/pages/index.tsx. The applic
 
 To learn more about Next.js and the technologies used in this project, check out the following resources:
 
-    Next.js Documentation - Learn about Next.js features and API.
-    Learn Next.js - An interactive Next.js tutorial.
+- [Next.js Documentation](https://nextjs.org/docs) - Learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - An interactive Next.js tutorial.
 
-You can also explore the Next.js GitHub repository for more information on contributing and feedback.
+You can also explore the [Next.js GitHub repository](https://github.com/vercel/next.js) for more information on contributing and feedback.
 
 ## Deploy on Vercel
 
-The easiest way to deploy your Next.js application is to use the Vercel Platform. Check out the Next.js deployment documentation for more details.
+The easiest way to deploy your Next.js application is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app). Check out the [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+---
