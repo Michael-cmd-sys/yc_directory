@@ -10,21 +10,11 @@ Welcome to the YC Directory project! This repository is a modern web application
 - [Learn More](#learn-more)
 - [Deploy on Vercel](#deploy-on-vercel)
 
-## Getting Started
-
-Follow these instructions to set up and run the project on your local machine.
-
 ### Prerequisites
 
 Make sure you have the following installed on your machine:
 - [Node.js](https://nodejs.org/) (version 14.x or later)
 - [npm](https://www.npmjs.com/) (or [yarn](https://yarnpkg.com/), [pnpm](https://pnpm.io/), [bun](https://bun.sh/))
-
-## Project Structure
-
-The project structure is organized as follows:
-Waiting for reply…
-Markdown
 
 # YC Directory
 
@@ -52,6 +42,7 @@ Make sure you have the following installed on your machine:
 
 The project structure is organized as follows:
 
+```
 yc_directory/ 
 ├── public/ # Static assets (images, fonts, etc.) 
 ├── src/ 
@@ -69,7 +60,7 @@ yc_directory/
 ├── .gitignore # Git ignore file 
 ├── package.json # Project dependencies and scripts 
 ├── README.md # Project documentation └── tsconfig.json # TypeScript configuration
-
+```
 
 ## Installation
 
